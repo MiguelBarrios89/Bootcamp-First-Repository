@@ -3,7 +3,7 @@ h1, h2, a, p{
     font-family: Helvetica, Arial, Sans-Serif;
 }
 
- /* Title stuff */
+ /* Title styling */
 h1, h2 
 {
     text-align: center;
@@ -14,11 +14,13 @@ h1, h2
     margin-top: 10px;
 }
 
+ /* Paragraph styling */
 p
 {
     font-size: 20px;
 }
 
+ /* Link styling */
 a:link 
 {
     font-weight: bold;
@@ -29,6 +31,7 @@ a:visited
     color:green;
 }
 
+ /* Images styling */
 img
 {
     margin-top: 20px;
@@ -38,6 +41,7 @@ img
     border-radius: 10px;
 }
 
+ /* Body styling */
 .center 
 {
     margin: auto;
