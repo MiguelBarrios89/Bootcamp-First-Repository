@@ -1,0 +1,46 @@
+/* Font styling */
+h1, h2, a, p{
+    font-family: Helvetica, Arial, Sans-Serif;
+}
+
+ /* Title stuff */
+h1, h2 
+{
+    text-align: center;
+    background-color: black;
+    color:white;
+    width: 30%;
+    margin:auto;
+    margin-top: 10px;
+}
+
+p
+{
+    font-size: 20px;
+}
+
+a:link 
+{
+    font-weight: bold;
+}
+
+a:visited
+{
+    color:green;
+}
+
+img
+{
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+.center 
+{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
